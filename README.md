@@ -1,4 +1,5 @@
 PREDICTING CONDITION OF THE WELLS BASING ON SORT OF PUMPS INSTALLED AND WHEN.
+
 Predicting Condition of the wells, functioning and non functioning pumps basing on sort of pump installed and whe
 Overview
 #The dataset is provided by the Taarifa and the Tanzanian Ministry of Water to predict the condition of a water well, basing on the sort of pump and when it was installed, so that the Government of Tanzania in patternship with NGOs can find new patterns of constructing new wells and provide clean water to Tanzanian people.. 🚀
